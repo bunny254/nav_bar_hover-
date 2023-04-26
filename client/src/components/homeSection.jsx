@@ -11,8 +11,8 @@ const HomeSection = () => {
           <ul className="flex items-center justify-center font-semibold gap-4">
             <li className="relative group px-3 py-2">
               <button className="hover:opacity-50 cursor-default">NEW</button>
-              <div className="absolute top-0 -left-52 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
-                <div className="relative top-6 p-6 bg-white rounded-xl shadow-xl w-full">
+              <div className="absolute top-5 -left-52 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
+                <div className="relative p-6 bg-white rounded-xl shadow-xl w-full">
                   <div className="w-10 h-10 bg-white transform rotate-45 absolute top-0 z-0 translate-x-0 transition-transform group-hover:translate-x-[12rem] duration-500 ease-in-out rounded-sm"></div>
                   <div className="relative z-10">
                     <div className="grid grid-cols-2 gap-6">
@@ -87,8 +87,8 @@ const HomeSection = () => {
               <button className="hover:opacity-50 cursor-default">
                 LADIES
               </button>
-              <div className="absolute top-0 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
-                <div className="relative top-6 p-6 bg-white rounded-xl shadow-xl w-full">
+              <div className="absolute top-5 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
+                <div className="relative p-6 bg-white rounded-xl shadow-xl w-full">
                   <div className="w-10 h-10 bg-white transform rotate-45 absolute top-0 z-0 -translate-x-4 transition-transform group-hover:translate-x-3 duration-500 ease-in-out rounded-sm"></div>
                   <div className="relative z-10">
                     <p className="uppercase tracking-wider text-gray-500 font-medium text-[13px">
@@ -108,8 +108,8 @@ const HomeSection = () => {
             </li>
             <li className="relative group px-3 py-2">
               <button className="hover:opacity-50 cursor-default">MEN</button>
-              <div className="absolute top-0 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
-                <div className="relative top-6 p-6 bg-white rounded-xl shadow-xl w-full">
+              <div className="absolute top-5 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
+                <div className="relative p-6 bg-white rounded-xl shadow-xl w-full">
                   <div className="w-10 h-10 bg-white transform rotate-45 absolute top-0 z-0 -translate-x-4 transition-transform group-hover:translate-x-3 duration-500 ease-in-out rounded-sm"></div>
                   <div className="relative z-10">
                     <p className="uppercase tracking-wider text-gray-500 font-medium text-[13px">
@@ -129,8 +129,8 @@ const HomeSection = () => {
             </li>
             <li className="relative group px-3 py-2">
               <button className="hover:opacity-50 cursor-default">KIDS</button>
-              <div className="absolute top-0 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
-                <div className="relative top-6 p-6 bg-white rounded-xl shadow-xl w-full">
+              <div className="absolute top-5 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
+                <div className="relative p-6 bg-white rounded-xl shadow-xl w-full">
                   <div className="w-10 h-10 bg-white transform rotate-45 absolute top-0 z-0 -translate-x-4 transition-transform group-hover:translate-x-3 duration-500 ease-in-out rounded-sm"></div>
                   <div className="relative z-10">
                     <p className="uppercase tracking-wider text-gray-500 font-medium text-[13px">
@@ -152,8 +152,8 @@ const HomeSection = () => {
               <button className="hover:opacity-50 cursor-default">
                 BRANDS
               </button>
-              <div className="absolute top-0 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
-                <div className="relative top-6 p-6 bg-white rounded-xl shadow-xl w-full">
+              <div className="absolute top-5 -left-2 transition group-hover:translate-y-5 translate-y-0 opacity-0 invisible group-hover:opacity-100 group-hover:visible duration-500 ease-in-out group-hover:transform z-50 min-w-[560px] tranform">
+                <div className="relative p-6 bg-white rounded-xl shadow-xl w-full">
                   <div className="w-10 h-10 bg-white transform rotate-45 absolute top-0 z-0 -translate-x-4 transition-transform group-hover:translate-x-3 duration-500 ease-in-out rounded-sm"></div>
                   <div className="relative z-10">
                     <p className="uppercase tracking-wider text-gray-500 font-medium text-[13px">
